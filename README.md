@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on figuring it out
 - 🌱 I’m currently learning that I know nothing
-- 👯 I’m looking to collaborate on staring at screens
-- 🤔 I’m looking for help with everything
+- 👯 I’m looking to collaborate on a meeting where everyone's camera is off
+- 🤔 I’m looking for help with a bug that only happens on the user's cracked-screen Android with 200MB storage left
 - 💬 Ask me about nothing
 - 📫 How to reach me: good luck
 - 😄 Pronouns: who/cares
