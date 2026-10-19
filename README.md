@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on figuring it out
-- 🌱 I’m currently learning that I know nothing
+- 🔭 I’m currently working on waiting for the agent to finish
+- 🌱 I’m currently learning to explain code I didn't write in standup
 - 👯 I’m looking to collaborate on a meeting where everyone's camera is off
 - 🤔 I’m looking for help with a bug that only happens on the user's cracked-screen Android with 200MB storage left
-- 💬 Ask me about nothing
-- 📫 How to reach me: good luck
+- 💬 Ask me about my code. I'll ask the AI and get back to you.
+- 📫 How to reach me: email me and I'll reply with something AI-generated
 - 😄 Pronouns: who/cares
-- ⚡ Fun fact: this isn't fun
+- ⚡ Fun fact: my most-used keyboard key is `Enter`
